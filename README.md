@@ -1,6 +1,6 @@
-                                                            Smart-Bills-and-Reciepts-Expenses-Tracker-
+                                                  Smart-Bills-and-Reciepts-Expenses-Tracker-
                                                             
-                                                                            ABSTRACT:
+                                                                ABSTRACT:
 1.Objective:
 ------------
 The objective of this project is to develop a web-based Smart Bill & Receipt Expense Tracker using Python and Django. This project helps users store their bills and receipts digitally by uploading images. The system automatically reads important details like shop name, bill date, and total amount using OCR technology and saves them in the database. It helps users manage their expenses in a simple and organized way.
