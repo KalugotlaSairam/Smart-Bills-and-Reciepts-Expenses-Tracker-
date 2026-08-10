@@ -1,6 +1,7 @@
-                                                  Smart-Bills-and-Reciepts-Expenses-Tracker-
+Smart-Bills-and-Reciepts-Expenses-Tracker-
                                                             
-                                                                ABSTRACT:
+ABSTRACT:
+
 1.Objective:
 The objective of this project is to develop a web-based Smart Bill & Receipt Expense Tracker using Python and Django. This project helps users store their bills and receipts digitally by uploading images. The system automatically reads important details like shop name, bill date, and total amount using OCR technology and saves them in the database. It helps users manage their expenses in a simple and organized way.
 
@@ -10,7 +11,7 @@ Most people store paper bills or write their expenses manually. Paper bills can 
 3. Proposed System:
 The proposed system is an automated expense tracking application developed using Django. Users can upload bill or receipt images, and the system extracts important details using OCR technology. The extracted information is stored in the database. Users can view their expense history, search bills, filter expenses by date or category, and view monthly expense reports through a simple dashboard. This system saves time and makes expense management easier.
 
-5. Who Can Use:
+4. Who Can Use:
 The following users can use this system:
 •	Students
 •	Employees
@@ -19,7 +20,7 @@ The following users can use this system:
 •	Shop Owners
 Anyone who wants to manage daily expenses
 
-6. Roles & Responsibilities:
+5. Roles & Responsibilities:
 Roles and Responsibilities of Administrator:
 •	Create user accounts
 •	Manage users
@@ -36,7 +37,7 @@ Roles and Responsibilities of User:
 •	Delete uploaded bills
 •	View monthly expense reports
 
-7. Hardware Requirements:
+6. Hardware Requirements:
 •	Processor: Intel Core i3 or above
 •	RAM: 4 GB or above
 •	Storage: 20 GB free disk space
@@ -44,7 +45,7 @@ Roles and Responsibilities of User:
 •	Keyboard and Mouse
 •	Internet Connection: Required for downloading packages and updates
 
-8. Software Requirements:
+7. Software Requirements:
 •	Operating System: Windows 10/11 or Ubuntu
 •	Programming Language: Python 3.x
 •	Framework: Django
